@@ -14,5 +14,6 @@ class TestOnePage():
 
         sklad = browser.find_element(By.CLASS_NAME, "instock.availability")
 
+        time.sleep(30)
         assert 'доступно' or 'available' in sklad.text
 
