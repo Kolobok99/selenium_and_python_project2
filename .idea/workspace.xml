@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6882301-7e2d-45d6-9e17-ae9e24172636" name="Changes" comment="5. Final git(1)" />
+    <list default="true" id="f6882301-7e2d-45d6-9e17-ae9e24172636" name="Changes" comment="5. Final git(1)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_my_stepik2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -107,6 +109,8 @@
       <workItem from="1643711838043" duration="2070000" />
       <workItem from="1643715686695" duration="51000" />
       <workItem from="1643715739857" duration="206000" />
+      <workItem from="1643718972040" duration="59000" />
+      <workItem from="1643719035254" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="START COMMIT: add test_items.py and conftest.py">
       <created>1643700341425</created>

@@ -13,6 +13,7 @@ class TestOnePage():
         browser.get(link)
 
         add_button = browser.find_elements(By.CLASS_NAME, "btn.btn-lg.btn-primary.btn-add-to-basket")
-        assert len(add_button) > 0, "Кнопка не найдена"
-        #time.sleep(30)
-
+        
+        
+        assert len(add_button) != 0, "Кнопка не найдена"        
+        assert len(add_button) == 1, "Селектор не уникален!"
