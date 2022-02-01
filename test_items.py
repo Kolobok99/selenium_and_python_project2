@@ -7,12 +7,12 @@ from selenium.webdriver.common.by import By
 class TestOnePage():
     """ Test: class to test coders-at-work page """
 
-    def test_the_page(self, browser):
+    def test_add_button(self, browser):
         """test: test the page"""
         link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
         browser.get(link)
 
-        sklad = browser.find_element(By.CLASS_NAME, "instock.availability")
-
-        assert 'доступно' or 'available' in sklad.text
+        add_button = browser.find_elements(By.CLASS_NAME, "btn.btn-lg.btn-primary.btn-add-to-basket")
+        assert len(add_button) > 0, "Кнопка не найдена"
+        #time.sleep(30)
 
