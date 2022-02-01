@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6882301-7e2d-45d6-9e17-ae9e24172636" name="Changes" comment="5. Final git" />
+    <list default="true" id="f6882301-7e2d-45d6-9e17-ae9e24172636" name="Changes" comment="5. Final git(1)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_my_stepik2" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -106,6 +106,7 @@
       <workItem from="1643711020112" duration="16000" />
       <workItem from="1643711838043" duration="2070000" />
       <workItem from="1643715686695" duration="51000" />
+      <workItem from="1643715739857" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="START COMMIT: add test_items.py and conftest.py">
       <created>1643700341425</created>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643715238247</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="5. Final git(1)">
+      <created>1643715793710</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643715793710</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,18 +201,8 @@
     <MESSAGE value="4. added &quot;all&quot; languages" />
     <MESSAGE value="4. added &quot;all&quot; languages + added system files" />
     <MESSAGE value="5. Final git" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Final git" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="5. Final git(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. Final git(1)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/selenium_and_python_proj2$.coverage" NAME=" Coverage Results" MODIFIED="1643706323607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
